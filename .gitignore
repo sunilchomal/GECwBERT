@@ -103,8 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-hunspell/
 
-images/
-
-model/
